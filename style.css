@@ -1,0 +1,31 @@
+body {
+    background-color: #cef4ff;
+    font-family: sans-serif;
+    padding: 40px;
+}
+
+h1 {
+    color: darkblue;
+      text-align: center;
+ }
+.my-photo {
+    border-radius: 20px;
+    border: 5px solid white;
+    box-shadow: 0 0 15px rgba(0,0,0,0.2);
+}
+nav {
+    background: #333;
+    padding: 15px;
+    text-align: center;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: #ffcc00;
+}
